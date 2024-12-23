@@ -8,3 +8,4 @@ https://developer.paypal.com/docs/checkout/advanced/android/
 This step-by-step tutorial will guide you through the process of setting up PayPal integration, allowing your users to make secure and convenient payments. Enhance your app's functionality and provide a seamless payment experience with PayPal.
 
 Youtube Video : https://www.youtube.com/watch?v=p-vdXu0nbhI
+# demo-ppal-integration
